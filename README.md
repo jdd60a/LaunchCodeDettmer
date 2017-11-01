@@ -29,6 +29,9 @@ Everything you need to know about John Dettmer at LaunchCode
      * Requires honesty, vulnerability, and EQ
      * Walk the talk - every lecture is retroed by *all* of us!
   
+  ## Resources
+   * [Effective Java](https://www.amazon.com/Effective-Java-Joshua-Bloch-ebook/dp/B00B8V09HY/ref=mt_kindle?_encoding=UTF8&me=), which is a great overview of Java for any experience level.
+  
   ## What else?
  * email me at jdd60a@gmail.com!
  * See my [linkedin profile](www.linkedin.com/in/john-dettmer-37a4b925)
