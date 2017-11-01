@@ -7,6 +7,7 @@ Everything you need to know about John Dettmer at LaunchCode
   * 1 wife, 2 kids, 3 pets
   * 2012 mustang GT mid-life crisis car of choice
   * killab227 on steam; playing a lot of PUBG right now
+  * *Terrible* with names and faces; it's not personal!!
  
  ## What do I bring to launchcode (and you)?
   * Architecture at scale - proudest thing on my current resume is scaling LoL to tens of millions of concurrent Chinese players.
